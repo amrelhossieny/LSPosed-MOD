@@ -96,9 +96,7 @@ public class LogcatService implements Runnable {
 
     @Override
     public void run() {
-        //Log.i(TAG, "start running");
-        runLogcat();
-        //Log.i(TAG, "stopped");
+        
     }
 
     @SuppressWarnings("unused")
