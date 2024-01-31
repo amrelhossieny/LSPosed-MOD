@@ -23,7 +23,7 @@ Android 8.1 ~ 14
 
 ## Download
 
-- For stable releases, please go to [Github Releases page](https://github.com/LSPosed/LSPosed/releases)
+- For stable releases, please go to [Github Releases page](https://github.com/amrelhossieny/LSPosed-MOD/releases)
 - For canary build, please check [Github Actions](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=branch%3Amaster)
 
 Note: debug builds are only available in Github Actions.
